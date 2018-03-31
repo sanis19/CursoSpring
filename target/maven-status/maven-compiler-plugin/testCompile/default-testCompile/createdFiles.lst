@@ -1,0 +1,3 @@
+com\privalia\presentation\annotations\integration\test\HelloWorldTest.class
+com\privalia\calculatorexample\integration\test\CalculatorIntegrationTest.class
+com\privalia\calculatorexample\unit\test\CalculatorTest.class
