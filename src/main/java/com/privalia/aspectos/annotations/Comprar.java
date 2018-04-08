@@ -2,6 +2,8 @@ package com.privalia.aspectos.annotations;
 
 import org.springframework.stereotype.Component;
 
+//@EnableAspectJAutoProxy
+//@ComponentScan(basePackages = "com.privalia.aspectos.annotations")
 @Component
 public class Comprar implements Compra{
 	
